@@ -1,5 +1,5 @@
-Easy adt7410 Arduin Library
-===========================
+Easy adt7410 Arduino Library
+============================
 
 
 Easy to use library for the high-precision, low-power digital temperature sensor.
